@@ -1,0 +1,26 @@
+# Environments
+.env
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Data
+*.pt
+*.npy
+*.task
+
+# Database
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Media
+*.mp4
+*.avi
+*.gif
